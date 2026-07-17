@@ -12,11 +12,7 @@ A modern and responsive **Crypto Currency Landing Page** built using **HTML & CS
 
 ## 📸 Project Preview
 
-> Add a screenshot of the project inside the `images` folder.
-
-```md
 ![Crypto Landing Page Preview](images/preview.png)
-```
 
 ---
 
