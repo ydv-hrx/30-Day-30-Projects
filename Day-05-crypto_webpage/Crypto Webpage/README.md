@@ -116,7 +116,7 @@ While building this project, I learned:
 
 ## 👨‍💻 Author
 
-**Hrithik Yadav**
+**Hrithik Roshan**
 
 📧 Email: hrithikroshan1811@gmail.com
 
