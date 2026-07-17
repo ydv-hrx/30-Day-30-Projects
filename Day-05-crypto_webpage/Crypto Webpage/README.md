@@ -6,7 +6,7 @@ A modern and responsive **Crypto Currency Landing Page** built using **HTML & CS
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** *(Add your Vercel link here)*
+🌐 **Live Website:** https://30-day-30-projects-5cd1.vercel.app/
 
 ---
 
