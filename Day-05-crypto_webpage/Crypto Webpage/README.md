@@ -12,7 +12,7 @@ A modern and responsive **Crypto Currency Landing Page** built using **HTML & CS
 
 ## 📸 Project Preview
 
-![Crypto Landing Page Preview](images/preview.png)
+![Crypto Landing Page Preview](preview.png)
 
 ---
 
