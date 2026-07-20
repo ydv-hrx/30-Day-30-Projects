@@ -12,7 +12,7 @@ A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, 
 
 ## 📸 Project Preview
 
-![Portfolio Website Preview](preview.png)
+![Portfolio Website Preview](images/preview.png)
 
 ---
 
