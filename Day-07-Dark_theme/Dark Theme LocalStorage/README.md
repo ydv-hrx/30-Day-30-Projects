@@ -6,7 +6,7 @@ A modern and responsive **Personal Portfolio Website** built using **HTML, CSS, 
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** *(Add your Vercel link here)*
+🌐 **Live Website:** https://30-day-30-projects-1ayk.vercel.app/
 
 ---
 
