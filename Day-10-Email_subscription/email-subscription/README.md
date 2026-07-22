@@ -6,7 +6,7 @@ A modern and responsive **Email Subscription Form** built using **HTML, CSS, and
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** *(Add your Vercel link here)*
+🌐 **Live Website:** https://30-day-30-projects-5s74.vercel.app/
 
 ---
 
